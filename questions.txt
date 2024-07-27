@@ -1,0 +1,3 @@
+What is the capital city of India?;New Delhi,Mumbai,Kolkata,Chennai;0
+Who is popularly known as the “Iron Man” of India?;Lal Bahadur Shastri,Sardar Vallabh Bhai Patel,Mahatma Gandhi,Dr. B.R Ambedkar;1
+Where is Taj Mahal located in India?;New Delhi,Kolkata,Agra,Lucknow;2
